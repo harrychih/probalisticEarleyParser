@@ -1,5 +1,4 @@
-# Natural Language Processing Homework 4
-# a Probalistic Earley Parser
+# Probalistic Earley Parser
 
 Harry Qi, Zike Hu
 
