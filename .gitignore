@@ -1,0 +1,6 @@
+# macOS metadata
+._*
+.DS_Store
+
+# ZCode session files
+.zcode/
